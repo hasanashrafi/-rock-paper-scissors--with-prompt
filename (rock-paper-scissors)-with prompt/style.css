@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    font-family: monospace;
+}
+
+.row {
+    display: flex;
+    text-align: center;
+}
+
+.row img {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+p{
+    display: inline-block;
+    margin: 15px;
+}
